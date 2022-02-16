@@ -16,4 +16,4 @@
 * Created dashboard using Tableau to visualize player ratings based on the league, clubs, and country. Typically I use this to find certain players in FIFA to build team chemistry or open a new pack. Following is the [link](https://public.tableau.com/app/profile/christopher7474/viz/FIFA22ClubPlayerRating/LeagueGrading)
 
 	![](https://github.com/ChrisMaringka/FIFA-2022/blob/d5d1b0213aa058b97d4124d3683f433c88a9e80c/chart/League.png)
-  ![](https://github.com/ChrisMaringka/FIFA-2022/blob/d5d1b0213aa058b97d4124d3683f433c88a9e80c/chart/League.png)
+  ![](https://github.com/ChrisMaringka/FIFA-2022/blob/d5d1b0213aa058b97d4124d3683f433c88a9e80c/chart/Country.png)
