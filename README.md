@@ -19,7 +19,7 @@
   ![](https://github.com/ChrisMaringka/FIFA-2022/blob/d5d1b0213aa058b97d4124d3683f433c88a9e80c/chart/Country.png)
 
 # [Ecuador Supermarket Prediction: Project Overview](https://github.com/ChrisMaringka/Ecuador)
-* Created Linear Regression to assess the effect of oil price and holiday to sales in Supermarket
+* Created Linear Regression to assess the effect of oil price and holiday to sales in Supermarket. At the moment I concluded holiday effect and oil price do not significantly impact customer spending in various segments.
 
 	![](https://github.com/ChrisMaringka/Ecuador/blob/main/chart/holiday_qqplot.png)
   ![](https://github.com/ChrisMaringka/Ecuador/blob/main/chart/workday_qqplot.png)
