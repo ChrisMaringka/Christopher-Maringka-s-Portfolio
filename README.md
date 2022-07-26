@@ -1,5 +1,11 @@
 # Christopher Maringka's Portfolio
 
+# [Yiruma VOC: Project Overview](https://github.com/ChrisMaringka/Pokemon-Gen-1to8)
+* Worked with YouTube APIs to collect real-time data of user comments on Yiruma's channel
+* Created WordCloud and extract the most common words on user's comments for intuitive interpretation
+
+	![](https://github.com/ChrisMaringka/YouTube_APIs/blob/main/WordCloud.png)
+
 # [Pokemon Competitiveness Assessment: Project Overview](https://github.com/ChrisMaringka/Pokemon-Gen-1to8)
 * Cleaned dataset based on .csv file using Jupyter Notebook
 * Conducted statistical analysis to determine the difference in competitiveness between each generations of Pokemon. From ANOVA testing, I concluded that the spread of overall status between Pokemon in each generation is well-balanced.
