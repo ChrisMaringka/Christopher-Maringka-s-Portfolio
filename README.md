@@ -1,6 +1,13 @@
 # Christopher Maringka's Portfolio
 
-# [Yiruma VOC: Project Overview](https://github.com/ChrisMaringka/Pokemon-Gen-1to8)
+# [Lotto 649: Project Overview](https://github.com/ChrisMaringka/Lotto-649)
+* Scraped all Lotto 649 winning combinations from BCLC webpage, starting from the earliest date available to the most recent winning numbers
+* Created simple GUIs using Python to allow user inputting number combinations and validating whether the numbers have been won in the past or not
+
+	![](https://github.com/ChrisMaringka/Lotto-649/blob/main/Screenshot%20(877).png)
+	![](https://github.com/ChrisMaringka/Lotto-649/blob/main/Screenshot%20(878).png)
+	
+# [Yiruma VOC: Project Overview](https://github.com/ChrisMaringka/YouTube_APIs)
 * Worked with YouTube APIs to collect real-time data of user comments on Yiruma's channel
 * Created WordCloud and extract the most common words on user's comments for intuitive interpretation
 
